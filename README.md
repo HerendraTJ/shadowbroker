@@ -45,9 +45,3 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **NAMEDPIPETOUCH** Utility to test for a predefined list of named pipes, mostly AV detection. User can add checks for custom named pipes.
 
 
-Requirement:
-* OS : Windows XP Or Later
-* Python : 2.6 (Must this version or script will not work)
-* PYWIN32 that compatible with Python 2.6
-
-
