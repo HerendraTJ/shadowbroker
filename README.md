@@ -50,4 +50,13 @@ Requirement:
 * Python : 2.6 (Must this version or script will not work)
 * PYWIN32 that compatible with Python 2.6
 
+Q/A
+* Q: Error Install PYWIN32
+* A: Makesure you run as admin elevated
 
+
+* Q : Failed when pywin32_postinstall.py
+* A : Re-Run again with aditional "-install" command and admin elevated
+
+* Q : Failed to run fb.py
+* A : Makesure you already add listeningposts , and pywin installed.
